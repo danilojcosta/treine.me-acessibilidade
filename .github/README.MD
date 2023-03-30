@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-![desafio](/images/Projeto%2002.png)
+![desafio](./images/Projeto%2002.png)
 
 Veja como ficou, clique [AQUI](https://danilojcosta.github.io/treine.me-acessibilidade/)
 .
